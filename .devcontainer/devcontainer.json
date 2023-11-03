@@ -1,0 +1,6 @@
+{
+  "name": "compose",
+  //"remoteUser": "vscode",
+  "dockerComposeFile": "docker-compose.yml",
+  "features": {}
+}
